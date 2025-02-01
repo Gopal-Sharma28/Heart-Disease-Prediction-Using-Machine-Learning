@@ -1,0 +1,3 @@
+# Exclude environment and distribution files
+.env/
+.dist/
